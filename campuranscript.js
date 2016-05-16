@@ -21,5 +21,5 @@ FeaturedPostSide({
   ImageSize: 300,
   interval: 6000,
   autoplay: true,
-  tagName: "Artikel"
+  tagName: "Template"
 });
